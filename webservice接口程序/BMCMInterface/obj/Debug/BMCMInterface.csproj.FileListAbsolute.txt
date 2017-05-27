@@ -1,0 +1,21 @@
+F:\WorkBench\trunk\集中煎药控制与管理系统\BMCMInterface\BMCMInterface\bin\BMCMInterface.dll
+F:\WorkBench\trunk\集中煎药控制与管理系统\BMCMInterface\BMCMInterface\bin\BMCMInterface.pdb
+F:\WorkBench\trunk\集中煎药控制与管理系统\BMCMInterface\BMCMInterface\bin\DataBaseHelper.dll
+F:\WorkBench\trunk\集中煎药控制与管理系统\BMCMInterface\BMCMInterface\bin\DataBaseHelper.pdb
+F:\WorkBench\trunk\集中煎药控制与管理系统\BMCMInterface\BMCMInterface\obj\Debug\BMCMInterface.csprojResolveAssemblyReference.cache
+F:\WorkBench\trunk\集中煎药控制与管理系统\BMCMInterface\BMCMInterface\obj\Debug\BMCMInterface.dll
+F:\WorkBench\trunk\集中煎药控制与管理系统\BMCMInterface\BMCMInterface\obj\Debug\BMCMInterface.pdb
+F:\煎药系统历史版本\煎药系统何工版\集中煎药控制与管理系统\集中煎药控制与管理系统\BMCMInterface\BMCMInterface\bin\BMCMInterface.dll
+F:\煎药系统历史版本\煎药系统何工版\集中煎药控制与管理系统\集中煎药控制与管理系统\BMCMInterface\BMCMInterface\bin\BMCMInterface.pdb
+F:\煎药系统历史版本\煎药系统何工版\集中煎药控制与管理系统\集中煎药控制与管理系统\BMCMInterface\BMCMInterface\bin\DataBaseHelper.dll
+F:\煎药系统历史版本\煎药系统何工版\集中煎药控制与管理系统\集中煎药控制与管理系统\BMCMInterface\BMCMInterface\bin\DataBaseHelper.pdb
+F:\煎药系统历史版本\煎药系统何工版\集中煎药控制与管理系统\集中煎药控制与管理系统\BMCMInterface\BMCMInterface\obj\Debug\BMCMInterface.csprojResolveAssemblyReference.cache
+F:\煎药系统历史版本\煎药系统何工版\集中煎药控制与管理系统\集中煎药控制与管理系统\BMCMInterface\BMCMInterface\obj\Debug\BMCMInterface.dll
+F:\煎药系统历史版本\煎药系统何工版\集中煎药控制与管理系统\集中煎药控制与管理系统\BMCMInterface\BMCMInterface\obj\Debug\BMCMInterface.pdb
+D:\Code\webservice-lrt - 副本\webservice接口程序\BMCMInterface\bin\BMCMInterface.dll
+D:\Code\webservice-lrt - 副本\webservice接口程序\BMCMInterface\bin\BMCMInterface.pdb
+D:\Code\webservice-lrt - 副本\webservice接口程序\BMCMInterface\bin\DataBaseHelper.dll
+D:\Code\webservice-lrt - 副本\webservice接口程序\BMCMInterface\bin\DataBaseHelper.pdb
+D:\Code\webservice-lrt - 副本\webservice接口程序\BMCMInterface\obj\Debug\BMCMInterface.csprojResolveAssemblyReference.cache
+D:\Code\webservice-lrt - 副本\webservice接口程序\BMCMInterface\obj\Debug\BMCMInterface.dll
+D:\Code\webservice-lrt - 副本\webservice接口程序\BMCMInterface\obj\Debug\BMCMInterface.pdb

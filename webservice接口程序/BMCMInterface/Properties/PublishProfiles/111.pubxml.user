@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BMCMInterface.dll">
+      <publishTime>09/01/2016 18:20:51</publishTime>
+    </File>
+    <File Include="bin/BMCMInterface.pdb">
+      <publishTime>09/01/2016 18:20:51</publishTime>
+    </File>
+    <File Include="bin/DataBaseHelper.dll">
+      <publishTime>09/01/2016 18:20:51</publishTime>
+    </File>
+    <File Include="bin/DataBaseHelper.pdb">
+      <publishTime>09/01/2016 18:20:51</publishTime>
+    </File>
+    <File Include="bmcm.asmx">
+      <publishTime>04/26/2016 15:35:41</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/01/2016 18:22:11</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>04/27/2016 09:28:36</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

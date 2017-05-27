@@ -1,0 +1,22 @@
+F:\WorkBench\trunk\集中煎药控制与管理系统\BMCMInterface\DataBaseHelper\bin\DataBaseHelper.dll
+F:\WorkBench\trunk\集中煎药控制与管理系统\BMCMInterface\DataBaseHelper\bin\DataBaseHelper.pdb
+F:\WorkBench\trunk\集中煎药控制与管理系统\BMCMInterface\DataBaseHelper\bin\Interop.ADOX.dll
+F:\WorkBench\trunk\集中煎药控制与管理系统\BMCMInterface\DataBaseHelper\obj\Debug\Interop.ADOX.dll
+F:\WorkBench\trunk\集中煎药控制与管理系统\BMCMInterface\DataBaseHelper\obj\Debug\DataBaseHelper.csproj.ResolveComReference.cache
+F:\WorkBench\trunk\集中煎药控制与管理系统\BMCMInterface\DataBaseHelper\obj\Debug\DataBaseHelper.dll
+F:\WorkBench\trunk\集中煎药控制与管理系统\BMCMInterface\DataBaseHelper\obj\Debug\DataBaseHelper.pdb
+F:\煎药系统历史版本\煎药系统何工版\集中煎药控制与管理系统\集中煎药控制与管理系统\BMCMInterface\DataBaseHelper\bin\DataBaseHelper.dll
+F:\煎药系统历史版本\煎药系统何工版\集中煎药控制与管理系统\集中煎药控制与管理系统\BMCMInterface\DataBaseHelper\bin\DataBaseHelper.pdb
+F:\煎药系统历史版本\煎药系统何工版\集中煎药控制与管理系统\集中煎药控制与管理系统\BMCMInterface\DataBaseHelper\bin\Interop.ADOX.dll
+F:\煎药系统历史版本\煎药系统何工版\集中煎药控制与管理系统\集中煎药控制与管理系统\BMCMInterface\DataBaseHelper\obj\Debug\Interop.ADOX.dll
+F:\煎药系统历史版本\煎药系统何工版\集中煎药控制与管理系统\集中煎药控制与管理系统\BMCMInterface\DataBaseHelper\obj\Debug\DataBaseHelper.csproj.ResolveComReference.cache
+F:\煎药系统历史版本\煎药系统何工版\集中煎药控制与管理系统\集中煎药控制与管理系统\BMCMInterface\DataBaseHelper\obj\Debug\DataBaseHelper.dll
+F:\煎药系统历史版本\煎药系统何工版\集中煎药控制与管理系统\集中煎药控制与管理系统\BMCMInterface\DataBaseHelper\obj\Debug\DataBaseHelper.pdb
+D:\Code\webservice-lrt - 副本\webservice接口程序\DataBaseHelper\bin\DataBaseHelper.dll
+D:\Code\webservice-lrt - 副本\webservice接口程序\DataBaseHelper\bin\DataBaseHelper.pdb
+D:\Code\webservice-lrt - 副本\webservice接口程序\DataBaseHelper\bin\Interop.ADOX.dll
+D:\Code\webservice-lrt - 副本\webservice接口程序\DataBaseHelper\obj\Debug\DataBaseHelper.csprojResolveAssemblyReference.cache
+D:\Code\webservice-lrt - 副本\webservice接口程序\DataBaseHelper\obj\Debug\Interop.ADOX.dll
+D:\Code\webservice-lrt - 副本\webservice接口程序\DataBaseHelper\obj\Debug\DataBaseHelper.csproj.ResolveComReference.cache
+D:\Code\webservice-lrt - 副本\webservice接口程序\DataBaseHelper\obj\Debug\DataBaseHelper.dll
+D:\Code\webservice-lrt - 副本\webservice接口程序\DataBaseHelper\obj\Debug\DataBaseHelper.pdb
